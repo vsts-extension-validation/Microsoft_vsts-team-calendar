@@ -82,7 +82,7 @@
     "sass-loader": "^10.1.1",
     "style-loader": "^1.2.1",
     "tfx-cli": "^0.12.0",
-    "ts-loader": "~5.2.2",
+    "ts-loader": "~9.5.1",
     "typescript": "^3.9.10",
     "webpack": "^5.72.1",
     "webpack-cli": "^5.0.1",
